@@ -55,3 +55,11 @@ map <leader>cc ,c<space>
 map <leader>cs ,cs
 map <leader>c$ ,c$
 map <leader>cu ,cu
+
+" minibufexplorer.vim
+nmap <leader>bn :bn<cr>
+nmap <leader>bp :bp<cr>
+nmap <leader>bd :bd<cr>
+
+" NERD_tree.vim
+nmap <leader>n :NERDTree<cr>
