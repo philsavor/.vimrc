@@ -63,3 +63,7 @@ nmap <leader>bd :bd<cr>
 
 " NERD_tree.vim
 nmap <leader>n :NERDTree<cr>
+
+" 
+set nu
+set cul
